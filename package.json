@@ -1,0 +1,21 @@
+{
+    "name": "companion-module-levandevideo-regex",
+    "version": "1.0.0",
+    "description": "",
+    "main": "index.js",
+    "author": "Edvin Bryntesson",
+    "license": "MIT",
+    "private": true,
+    "keywords": [
+        "companion",
+        "bitfocus"
+    ],
+    "companion": {
+        "type": "other",
+        "id": "regex_module",
+        "name": "Regex Module",
+        "label": "Regex Module",
+        "instance_skel": "index.js"
+    },
+    "dependencies": {}
+}
