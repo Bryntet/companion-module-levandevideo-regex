@@ -1,7 +1,7 @@
 {
     "name": "companion-module-levandevideo-regex",
     "version": "1.0.0",
-    "description": "",
+    "description": "A module containing a basic regex feedback for bitfocus companion ",
     "main": "index.js",
     "author": "Edvin Bryntesson",
     "license": "MIT",
